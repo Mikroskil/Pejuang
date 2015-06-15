@@ -1,0 +1,3 @@
+langkah pertama edit di folder dist index.html
+setelah itu masuk ke html convert javascript
+copas ke folder src ke index

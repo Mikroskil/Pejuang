@@ -1,15 +1,16 @@
 # Kerja Kelompok :
- 1. Apriyanto Halim
- 2. Maria Rosalina Manik
- 3. Dinda Pratiwi Manurung
- 4. Herlina
+ 1. Ari Ramadhani
+ 2. Josua Gommos Marpaung
+ 3. ILham Wahyudi
+ 4. Hilton Ory Sukawa Silaen
+ 5. Reza Pirgianta Ginting
 
-#Judul Presentasi Kami : "Influenza"
+#Judul Presentasi Kami : "Hacker dan Hacking"
 
-# Kerja Bareng
-Kami berempat akan membuat presentasi tentang influenza, mungkin semuanya sudah mengerti tentang apa itu influenza, tetapi kami ingin memperjelasnya lagi denganpresentasi kami ini.
+# Pejuang
+Kami boyband akan membuat presentasi tentang hacker dan hacking
 
-# Kerja Bareng
+# Pejuang
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
