@@ -8,7 +8,8 @@
 #Judul Presentasi Kami : "Hacker dan Hacking"
 
 # Pejuang
-Kami boyband akan membuat presentasi tentang hacker dan hacking
+Sejarah
+Terminologi peretas muncul pada awal tahun 1960an di antara para anggota organisasi mahasiswa Tech Model Railroad Club di laboratorium Kecerdasaan Artifisal Massachussetts Institute of Technology MIT
 
 # Pejuang
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
